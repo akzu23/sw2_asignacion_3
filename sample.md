@@ -304,10 +304,10 @@ Aquí va eso.
 ```typescript
 /*Aquí va la aplicación.*/
 ```
--https://wettel.github.io/download/wettel05-synasc.pdf
--https://www.win.tue.nl/~aserebre/2IMP25/2015-2016/5.pdf
--https://pdfs.semanticscholar.org/082c/e41543bee77f2f9e5a006eb39394bbc8a403.pdf
--https://arxiv.org/pdf/1812.06469.pdf
+- https://wettel.github.io/download/wettel05-synasc.pdf
+- https://www.win.tue.nl/~aserebre/2IMP25/2015-2016/5.pdf
+- https://pdfs.semanticscholar.org/082c/e41543bee77f2f9e5a006eb39394bbc8a403.pdf
+- https://arxiv.org/pdf/1812.06469.pdf
 ---
 
 ## Conclusiones
