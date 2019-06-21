@@ -135,7 +135,7 @@ console.log(maintainability);  // imprime valores de mantenibilidad del proyecto
 
 
 ---
-### **Métrica 3: Core Size**
+### **Métrica 4: Core Size**
 #### **Descripción**
 ace referencia al porcentaje de módulos que dependen en gran medida de otros módulos y que a su vez dependen de ellos mismos. Este valor es asociado a que a menor porcentaje mejor métrica.
 
@@ -181,7 +181,7 @@ escomplex.processResults(result.coreSize, CoreSize);
 ```
 ---
 
-### **Métrica 3: Counter**
+### **Métrica 5: Counter**
 #### **Descripción**
 Permite cuantificar las llamadas que se puede realizar de una función, variables, etc.
 #### **¿En qué contextos se utilizaría? ¿Cuáles serían los beneficios de su utilización?**
@@ -209,7 +209,7 @@ La métrica identificada es viable a implementar en nuestro proyecto de software
 
 ---
 
-### **Métrica 4: Meter**
+### **Métrica 6: Meter**
 #### **Descripción**
 Meter mide la tasa de eventos realizados de diferentes maneras. La tasa media es la tasa promedio de eventos. Por lo general, se representa como la tasa total para toda la vida útil de su aplicación (por ejemplo, la cantidad total de solicitudes manejadas, dividida por la cantidad de segundos que el proceso ha estado ejecutándose), no ofrece una sensación de actualidad. Afortunadamente, los medidores también registran tres diferentes promedios móviles de ponderación exponencial: los promedios móviles de 1, 5 y 15 minutos.
 #### **¿En qué contextos se utilizaría? ¿Cuáles serían los beneficios de su utilización?**
@@ -235,7 +235,7 @@ Es viable identificar la cantidad de solicitudes de cotización en un periodo de
 
 ---
 
-### **Métrica 5: Lack of Cohesion of Methods**
+### **Métrica 7: Lack of Cohesion of Methods**
 #### **Descripción**
 La falta de cohesión en los métodos (LCOM), esta métrica se encarga de medir la correlación entre los métodos y las variables de instancia local de una clase. Si existe muy baja cohesión se aumenta la complejidad del software, por el contrario una alta cohesión garantiza una buena subdivisión de la clase. Las clases que presentan baja cohesión pueden ser divididas en dos o más subclases que tengan una cohesión mayor.
 #### **¿En qué contextos se utilizaría? ¿Cuáles serían los beneficios de su utilización?**
@@ -253,43 +253,7 @@ Aquí va eso.
 
 ---
 
-### **Métrica 6: Métrica de Elshof or something**
-#### **Descripción**
-Aquí va la descripción.
-#### **¿En qué contextos se utilizaría? ¿Cuáles serían los beneficios de su utilización?**
-Aquí va eso.
-#### **Ejemplo**
-```typescript
-/*Aquí va el ejemplo.*/
-```
-#### **¿Considera que la utilización de la técnica es viable para su aplicación en proyectos de software?**
-Aquí va eso.
-#### **Aplicación al proyecto de software**
-```typescript
-/*Aquí va la aplicación.*/
-```
-
----
-
-### **Métrica 7: Aquí va el título**
-#### **Descripción**
-Aquí va la descripción.
-#### **¿En qué contextos se utilizaría? ¿Cuáles serían los beneficios de su utilización?**
-Aquí va eso.
-#### **Ejemplo**
-```typescript
-/*Aquí va el ejemplo.*/
-```
-#### **¿Considera que la utilización de la técnica es viable para su aplicación en proyectos de software?**
-Aquí va eso.
-#### **Aplicación al proyecto de software**
-```typescript
-/*Aquí va la aplicación.*/
-```
-
----
-
-### **Métrica 8: Aquí va el título**
+### **Métrica 8: Métrica de Elshof or something**
 #### **Descripción**
 Aquí va la descripción.
 #### **¿En qué contextos se utilizaría? ¿Cuáles serían los beneficios de su utilización?**
@@ -325,7 +289,7 @@ Aquí va eso.
 
 ---
 
-### **Métrica 10: Aquí va el título**
+### **Métrica 10: Code Duplication**
 #### **Descripción**
 Aquí va la descripción.
 #### **¿En qué contextos se utilizaría? ¿Cuáles serían los beneficios de su utilización?**
@@ -340,7 +304,10 @@ Aquí va eso.
 ```typescript
 /*Aquí va la aplicación.*/
 ```
-
+-https://wettel.github.io/download/wettel05-synasc.pdf
+-https://www.win.tue.nl/~aserebre/2IMP25/2015-2016/5.pdf
+-https://pdfs.semanticscholar.org/082c/e41543bee77f2f9e5a006eb39394bbc8a403.pdf
+-https://arxiv.org/pdf/1812.06469.pdf
 ---
 
 ## Conclusiones
