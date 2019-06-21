@@ -291,7 +291,7 @@ Aquí va eso.
 
 ### **Métrica 10: Code Duplication**
 #### **Descripción**
-Aquí va la descripción.
+Código clonado :v
 #### **¿En qué contextos se utilizaría? ¿Cuáles serían los beneficios de su utilización?**
 Aquí va eso.
 #### **Ejemplo**
